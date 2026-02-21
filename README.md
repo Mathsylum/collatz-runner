@@ -20,7 +20,7 @@ About the problem: [Collatz Conjecture](https://handwiki.org/wiki/Collatz_conjec
 Clone and run locally:
 
 ```bash
-git clone https://github.com/Vandovers/collatz-runner.git
+git clone https://github.com/Mathsylum/collatz-runner.git
 cd collatz-runner
 python3 --version   # 3.8+ works, 3.10+ recommended
 python collatz.py 27
